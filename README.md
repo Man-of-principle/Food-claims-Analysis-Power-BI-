@@ -6,11 +6,9 @@ Vivendo, a prominent fast food chain in Brazil boasting over 200 outlets, faces 
 
 The head of the legal department has tasked us with providing a comprehensive report detailing the variations in claim closure times across each location. This analysis will shed light on areas for improvement and aid in streamlining the claims management process.
 
-To view The Analysis Click Here 
-
 # Data
 The dataset contains one row for each claim.
-The dataset can be downloaded from here.
+The dataset can be downloaded from [here](https://github.com/Man-of-principle/Food-claims-Analysis-Power-BI-/tree/main/Dataset).
 
 | Column Name |  Criteria |
 |-------------| ----------|
@@ -23,4 +21,8 @@ The dataset can be downloaded from here.
 |linked_cases|Nominal. Whether this claim is linked to other cases. Either TRUE or FALSE.Replace missing values with FALSE.|
 |cause|Nominal. Cause of the food poisoning. One of “vegetable”, “meat” or “unknown”. Replace missing values with ‘unknown’.|
 
-**To view The Analysis Click Here**
+
+**To view The Analysis Click [Here](https://github.com/Man-of-principle/Food-claims-Analysis-Power-BI-/blob/main/file/Food%20Claim%20Solutions%20.ipynb)**
+
+
+
